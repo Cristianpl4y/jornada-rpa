@@ -1,0 +1,4 @@
+Estamos escrevendo a primeira linha do arquivo
+Vejam so, esta e a segunda linha do arquivo
+Este é um terceiro conteúdo
+Este é o quarto conteúdo
